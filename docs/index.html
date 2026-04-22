@@ -1,1 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>MBTI Bingo</title>
+  <link rel="stylesheet" href="./styles.css?v=1" />
+</head>
 
+<body>
+  <header class="wrap header">
+    <div class="brand">
+      <div class="title">MBTI Bingo</div>
+    </div>
+
+    <div class="controls">
+      <button id="printBtn" class="btn" type="button">Print</button>
+      <button id="copyLinkBtn" class="btn btn-secondary" type="button">Copy link</button>
+    </div>
+  </header>
+
+  <section class="wrap pickerWrap" aria-label="Choose a card">
+    <div class="pickerTitle">Choose a card</div>
+    <div class="pickerHint">Choose a card based on your MBTI type.</div>
+    <div id="cardPicker" class="picker" role="list"></div>
+  </section>
+
+  <main class="wrap">
+    <section class="meta">
+      <div>
+        <h1 id="cardTitle" class="cardTitle">Loading…</h1>
+        <p id="cardDesc" class="cardDesc"></p>
+      </div>
+
+      <div class="legend">
+        <div class="legendItem"><span class="dot dot-try"></span> “Try:” micro-action</div>
+        <div id="selectedCount" class="legendCount">Selected: 0 / 16</div>
+      </div>
+    </section>
+
+    <section class="cardShell">
+      <div id="grid" class="grid" aria-label="Behaviour grid"></div>
+    </section>
+
+    <footer class="footer">
+      <div class="footNote">
+        MBTI is used here as a lightweight reflection tool — not a label or assessment.
+      </div>
+    </footer>
+  </main>
+
+  <script src="./app.js?v=1"></script>
+</body>
+</html>
