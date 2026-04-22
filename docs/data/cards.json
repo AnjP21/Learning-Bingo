@@ -1,1 +1,15 @@
-
+{
+  "cards": [
+    {
+      "id": "NT_E",
+      "label": "ENTP / ENTJ",
+      "description": "Clarity • Alignment • Co-creation",
+      "squares": [
+        { "text": "I jump to the “best idea” and skip shared alignment.", "try": "Try: ask “What decision are we making?”" }
+        // ... include 23 more squares (total 24)
+      ]
+    }
+    // ... add NT_I, NF_E, NF_I, SJ_E, SJ_I, SP_E, SP_I
+  ]
+}
+``
