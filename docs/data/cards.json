@@ -3,7 +3,7 @@
     {
       "id": "NT_E",
       "label": "ENTP / ENTJ",
-      "description": "Clarity • Alignment • Co-creation",
+      "description": "Idea-forward, decisive, and big picture thinkers who love challenging the status quo and driving results.",
       "squares": [
         { "text": "I jump to the “best idea” and skip shared alignment.", "try": "Try: ask “What decision are we making?”" },
         { "text": "I debate to refine thinking, but it lands as criticism.", "try": "Try: open with intent + ask 2 questions first." },
@@ -35,7 +35,7 @@
     {
       "id": "NT_I",
       "label": "INTJ / INTP",
-      "description": "Visibility • Simplicity • Timely decisions",
+      "description": "Analytical and independent thinkers who enjoy analysing problem ",
       "squares": [
         { "text": "I stay quiet until I’m certain and miss influence windows.", "try": "Try: share a draft POV early." },
         { "text": "I over-analyse and delay decisions.", "try": "Try: decide with 80/20." },
