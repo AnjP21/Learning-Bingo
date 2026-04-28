@@ -35,7 +35,7 @@
     {
       "id": "NT_I",
       "label": "INTJ / INTP",
-      "description": "Analytical and independent thinkers who enjoy analysing problem ",
+      "description": "Analytical and independent thinkers who enjoy analysing problems and building smart, logical solutions.",
       "squares": [
         { "text": "I stay quiet until I’m certain and miss influence windows.", "try": "Try: share a draft POV early." },
         { "text": "I over-analyse and delay decisions.", "try": "Try: decide with 80/20." },
@@ -67,7 +67,7 @@
     {
       "id": "NF_E",
       "label": "ENFJ / ENFP",
-      "description": "Boundaries • Follow-through • Decision clarity",
+      "description": "People-centred and expressive energisers who inspire others and lead with optimism, ideas, and connection.",
       "squares": [
         { "text": "I over-commit because I want to help.", "try": "Try: offer a boundary + alternative." },
         { "text": "I energise others but skip follow-through.", "try": "Try: confirm owner + date." },
