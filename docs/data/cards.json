@@ -99,7 +99,7 @@
     {
       "id": "NF_I",
       "label": "INFJ / INFP",
-      "description": "Voice • Boundaries • Take action",
+      "description": "Reflective and quiet idealists driven by values, purpose, and meaningful impact.",
       "squares": [
         { "text": "I keep my thoughts internal and others can’t read me.", "try": "Try: share one sentence of intent." },
         { "text": "I avoid conflict and carry silent frustration.", "try": "Try: name the issue early." },
@@ -131,7 +131,7 @@
     {
       "id": "SJ_E",
       "label": "ESTJ / ESFJ",
-      "description": "Listening • Flexibility • Team safety",
+      "description": "Structured and dependable collaborators who like clarity, organisation, and achieving results with others.",
       "squares": [
         { "text": "I push structure quickly and others feel controlled.", "try": "Try: ask for input before deciding." },
         { "text": "I assume others share my urgency.", "try": "Try: confirm priority + capacity." },
@@ -163,7 +163,7 @@
     {
       "id": "SJ_I",
       "label": "ISTJ / ISFJ",
-      "description": "Big picture • Visibility • Confident recommendations",
+      "description": "Reliable and detail-oriented people who value reliability, care deeply, and do things properly.",
       "squares": [
         { "text": "I focus on details so much that the main message gets lost.", "try": "Try: lead with a 1-sentence headline." },
         { "text": "I hesitate to speak up and lose influence.", "try": "Try: share one clear POV." },
@@ -195,7 +195,7 @@
     {
       "id": "SP_E",
       "label": "ESTP / ESFP",
-      "description": "Clarity • Consistency • Follow-through",
+      "description": "Action-first and energetic doers who thrive in the moment and learn best by doing.",
       "squares": [
         { "text": "I speak fast and people miss the point.", "try": "Try: slow down; headline first." },
         { "text": "I act quickly and skip alignment.", "try": "Try: confirm goal + decision owner." },
@@ -227,7 +227,7 @@
     {
       "id": "SP_I",
       "label": "ISTP / ISFP",
-      "description": "Communication • Alignment • Steady progress",
+      "description": "Independent and practical problem-solvers who prefer working independently and responding flexibly.",
       "squares": [
         { "text": "I keep thoughts to myself and others assume I’m disengaged.", "try": "Try: share a brief update." },
         { "text": "I avoid planning and end up rushed.", "try": "Try: 10-minute plan sprint." },
